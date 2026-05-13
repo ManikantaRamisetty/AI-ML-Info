@@ -1,0 +1,95 @@
+DSA Notes: 
+https://www.linkedin.com/posts/pushpendratips_dsa-notes-for-placement-prep-ugcPost-7455820360006094848-ik4H?utm_medium=ios_app&rcm=ACoAADnzhQsB5Mc0t28Y68viYhfwLYWvU3sqMy0&utm_source=social_share_send&utm_campaign=whatsapp
+
+https://www.youtube.com/watch?v=9-6LtfjYmpg&list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA
+
+AI/ML
+
+https://www.facebook.com/reel/27206825972236375
+
+
+
+Dell G15 Gaming Laptop (13th Gen Intel Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ 6GB-NVIDIA GeForce RTX 3050 Graphics/ Windows 11/ MS-Office) OGN5530003P01RINO
+
+https://www.youtube.com/watch?v=QqPSWKdgQig
+
+
+crew ai.
+https://crewai.com/
+https://docs.crewai.com/
+guardrails -secure
+https://github.com/crewaiinc/crewai
+
+google -> google colab - new notebook - slect TPU 
+
+!nvidia-smi
+!pip install crewai
+!pip install 'crewai[tools]'
+
+https://serper.dev/login (to search any info in google using this serper api)
+create api key 
+
+https://github.com/crewaiinc/crewais
+https://github.com/kodigitaccount/Advanced-Agentic-AI-_-Multi-Agent-Workflow_CrewAI_serper_OpenAI_Gemini-LLM-Orchestrator
+
+100444791132
+
+
+claude.
+https://www.analyticsvidhya.com/blog/2026/03/free-anthropic-ai-courses-with-certificates/
+
+
+https://sora.chatgpt.com/explore
+
+https://www.youtube.com/live/30GylhaAI2M?si=PMrzgpFNv8Y-0iIR
+
+https://t.me/+3Q1vlUK3kU8xYjY1
+
+https://www.youtube.com/live/30GylhaAI2M
+
+leena renusri : 9133343369
+
+python -m pip install uv
+
+{
+	"mcpServers":{
+		"notebooklm": {
+			"command": "npx",
+			"args":["notebooklm-mcp@latest","serve"]
+		}
+	}
+}
+
+
+https://www.youtube.com/watch?v=dU1DI05bu6895
+https://www.youtube.com/watch?v=PhIAQ8rE2xc
+https://www.youtube.com/watch?v=qML4Tvf1P1s
+https://www.youtube.com/watch?v=Km4cSK8VLZ4
+
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSefBtMC6FEbJjWqG1mpzO_97LH_rZTpgmnrojsRmr8Q7jtabw/formResponse
+
+https://www.youtube.com/c/nareshit
+
+classroom: https://classroom.google.com/c/ODYxMTg1OTU3NTY4
+
+Day-1 https://youtu.be/Zf4kMwnenEk
+Day-2 https://youtu.be/L2rtoOlHI98
+Day-3 https://youtu.be/mTohTCoZA1M
+Day-4 https://youtu.be/qNO2rqHj7XQ
+Day-5 https://youtu.be/urW_4xjyQag
+Day-6 https://youtu.be/kvAaQHQEtfE
+Day-7 https://youtu.be/UpP_CGcaqRg
+Day-8 https://youtu.be/TzkMpEpc2sE
+Day-9 https://youtu.be/mJ37C9Z2UU4
+Day-10 https://youtu.be/0ckEcGGmXwY
+
+===== 📁 Lab Mentors
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+-----------
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+
+You need to login on this link "https://learn.nareshit.com/users/sign_in"
